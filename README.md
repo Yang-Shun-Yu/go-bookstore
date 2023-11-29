@@ -11,7 +11,7 @@ The project is structured into several packages, each serving a specific purpose
 - **main**: Contains the main entry point of the application.
   - `main.go`: Initializes the server and sets up the routes.
 
-- **pkg**:
+- **pkg**: Organizes the code into several packages, each serving a specific purpose.
   - **config**: Manages the database configuration.
     - `app.go`: Defines functions to connect to the database and retrieve the database instance.
   - **controllers**: Handles HTTP request handling and response for each route.
