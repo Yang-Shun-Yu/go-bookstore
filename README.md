@@ -3,6 +3,12 @@
 ## Overview
 
 This repository contains a simple Go web application for managing a bookstore. The application includes server-side code written in Go, utilizing the Gorilla Mux router and GORM for database operations. The application provides CRUD (Create, Read, Update, Delete) operations for managing books.
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Setup](#setup)
+- [Usage](#usage)
+
 
 ## Project Structure
 
